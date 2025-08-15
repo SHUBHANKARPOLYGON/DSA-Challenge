@@ -11,5 +11,6 @@ public class char_pattern_2 {
             }
             System.out.println();
         }
+        System.out.println("After Pattern: "+ch);
     }
 }
