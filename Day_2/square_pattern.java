@@ -11,5 +11,6 @@ public class square_pattern {
             }
             System.out.println();
         } 
+    System.out.println("After Pattern: "+num);
     }
 }
