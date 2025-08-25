@@ -8,9 +8,14 @@ public class N_factorial_fuction {
         }
         return num;
     }
+
+    void fun(){
+        System.out.println("Hello");
+    }
     public static void main(String[]args){
         N_factorial_fuction obj=new N_factorial_fuction();
         int output=obj.factorial(5);
         System.out.println(output);
+        
     }
 }
