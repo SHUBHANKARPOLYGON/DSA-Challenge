@@ -4,7 +4,7 @@ public class N_factorial_fuction {
     int factorial(int n){
         int num=1;
         for(int i=1;i<=n;i++){
-            num=num*i;
+            num*=i;
         }
         return num;
     }
