@@ -12,7 +12,7 @@ public class sum_of_digits_of_number {
     }
     public static void main(String[] args) {
         sum_of_digits_of_number obj=new sum_of_digits_of_number();
-        int result=obj.sum(1234);
+        int result=obj.sum(12345);
         System.out.println(result);
     }
 }
