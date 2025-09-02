@@ -7,7 +7,6 @@ public class pass_by_value_2 {
 
         return x;
     }
-    
     public static void main(String[] args) {
         int x=5;
         pass_by_value_2 obj=new pass_by_value_2();
