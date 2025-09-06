@@ -11,7 +11,7 @@ public class functions_fibonacci {
     }
     public static void main(String[] args){
         functions_fibonacci obj=new functions_fibonacci();
-        int result=obj.fibo(10);
+        int result=obj.fibo(4);
         System.out.println(result);
     }
 }
