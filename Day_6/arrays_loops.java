@@ -20,6 +20,6 @@ public class arrays_loops {
             System.out.println(marks[i]);   //Print the values stored in the array at index i
         }
         sc.close();
-}
+    }
 }
    
