@@ -8,7 +8,7 @@ public class arrays_loops {
         int[] marks=new int[size];     //Array Created with size 4
         Scanner sc=new Scanner(System.in);    //Scanner class is used to take input from the user
 
-        //Input
+        //Input  
         for(int i=0;i<size;i++){
             System.out.println("Enter value: "+(i+1));
             marks[i]=sc.nextInt();    //taking input from the user and storing it in the array at index i
@@ -22,4 +22,4 @@ public class arrays_loops {
         sc.close();
     }
 }
-   
+    
